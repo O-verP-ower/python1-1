@@ -1,1 +1,0 @@
-def inch2meter(a, b):
